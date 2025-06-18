@@ -1,20 +1,3 @@
-Group 2 - Rutgers Health Hack Fall 2024
-
-UPDATE 11/22: WINNER at Health Hack 2024 - Honorary Mention ($750)
-
-Abhinav Ramidi
-Beomseok Park
-Shariar Uddin
-Preet Patel
-Nikhil Shukla
-Azra Bano
-Wanzhao Yang
-Naveen Gedupoori
-Manav Vohra
-Rishabh Dhingra
-Sumedh Sinha
-
-
 Install the required libraries, use the following commands 
 
 npm install
@@ -24,9 +7,5 @@ npm install react-router-dom
 This is an application designed to aid med schools and enhance the student experience. 
 
 It has been deployed on AWS using Amplify (expires 27 Oct 2024): https://newr.dv3r7ksuvk0b0.amplifyapp.com/
-
-YouTube walkthrough: https://youtu.be/iOtvVrJdf8Q
-
-Slides: CureBytes.pdf (in repo)
 
 *PLEASE SEE BRANCH newr*
